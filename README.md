@@ -1,1 +1,1 @@
-# global-ai-2025-barcelona-semantickernel
+# global-ai-2025-madrid-semantickernel
