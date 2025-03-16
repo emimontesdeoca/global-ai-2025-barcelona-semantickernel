@@ -140,5 +140,3 @@ public class CartService
     public static void RemoveItem(string item) => CartItems.Remove(item);
     public static void ClearCart() => CartItems.Clear();
 }
-
-
